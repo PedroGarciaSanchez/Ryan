@@ -1,0 +1,3 @@
+
+(net/ryanair/tests/ryan_scenario.story)
+Scenario: User get payment declined message
